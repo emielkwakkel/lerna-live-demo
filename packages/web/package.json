@@ -1,6 +1,6 @@
 {
   "name": "@my-app/web",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "> TODO: description",
   "author": "Emiel Kwakkel <emiel.kwakkel@rabobank.nl>",
   "homepage": "https://github.com/emielkwakkel/lerna-live-demo#readme",
@@ -28,6 +28,6 @@
     "url": "https://github.com/emielkwakkel/lerna-live-demo/issues"
   },
   "dependencies": {
-    "@my-app/calculator": "^0.0.1"
+    "@my-app/calculator": "^0.1.0"
   }
 }
