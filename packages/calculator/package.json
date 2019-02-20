@@ -1,0 +1,29 @@
+{
+  "name": "@my-app/calculator",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Emiel Kwakkel <emiel.kwakkel@rabobank.nl>",
+  "homepage": "https://github.com/emielkwakkel/lerna-live-demo#readme",
+  "license": "ISC",
+  "main": "lib/calculator.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://localhost:4873/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emielkwakkel/lerna-live-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/emielkwakkel/lerna-live-demo/issues"
+  }
+}
