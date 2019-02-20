@@ -1,3 +1,3 @@
 const calc = require('@my-app/calculator');
 
-console.log(calc(1,2));
+console.log('test', calc(1,2));
